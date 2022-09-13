@@ -4,7 +4,7 @@
 
 ### Previous positions:
 
-- 🌱 AQA Engineer at ADF Solutions
+- 🌱 Quality Assurance Automation Engineer at ADF Solutions
 
 ### Connect with me:
 
